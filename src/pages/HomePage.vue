@@ -6,10 +6,10 @@
     <div class="container">
       <h1 class="title" data-textify-title>Hello</h1>
       <h2 class="sub-title" data-textify>
-        Payam Dowlatyari 
+        Your Name 
       </h2>
       <p class="paragraph" data-textify>
-        I am a software engineer, UX designer, photographer, and blogger. 
+        A short introduction about you. 
         </p>
     </div>
   </div>
@@ -27,10 +27,7 @@
          About
         </h1>
         <p class="paragraph" data-textify>
-        I studied Software Engineering at UC Irvine and graduated in 2020. 
-        I have been working in Silicon Valley as a full-stack web developer since then with a focus 
-        on the design and implementation of user interfaces using JavaScript-based frameworks and libraries. 
-        I am a hobbyist photographer and blogger interested in art, philosophy, and social sciences.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
       </div>
     </div>
@@ -54,10 +51,10 @@
     <div class="container">
       <h1 class="title" data-textify-title>Contact</h1>
       <p class="paragraph" data-textify>
-        contact@payamd.com
+        yourname@email.com
       </p>
       <p class="paragraph" data-textify>
-        +1 916 547 8918
+        +1 888 222 1111
       </p>
     </div>
   </div>
